@@ -23,5 +23,6 @@
   "homepage": "https://github.com/ScienceVikings/IconExtractor#readme",
   "dependencies": {
     "lodash": "^3.10.1"
-  }
+  },
+  "os" : [ "win32" ]
 }
